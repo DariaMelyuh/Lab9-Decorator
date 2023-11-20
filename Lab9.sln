@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab9", "Lab9\Lab9.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coffe", "Coffee\Coffe.csproj", "{291A13EA-9954-416B-B048-71E904FC17FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Additive", "Additive\Additive.csproj", "{9D995A82-06EE-404E-B03E-2D6F4CDABE61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Additive", "Additive\Additive.csproj", "{9D995A82-06EE-404E-B03E-2D6F4CDABE61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{1FB49125-C97C-46CC-BF6F-4B5873CE0ABE}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
