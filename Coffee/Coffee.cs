@@ -6,6 +6,10 @@
 
         public Coffee(string description)
         {
+            if (string.IsNullOrEmpty(description))
+            {
+                throw new ArgumentException("Описание кофе не может быть пустым или равным null", nameof(description));
+            }
             _description = description;
         }
 

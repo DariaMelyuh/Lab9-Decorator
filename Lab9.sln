@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab9", "Lab9\Lab9.csproj", "{EC3A619E-EC31-41DE-8B4A-231452CB78FE}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coffe", "Coffee\Coffe.csproj", "{291A13EA-9954-416B-B048-71E904FC17FD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Additive", "Additive\Additive.csproj", "{9D995A82-06EE-404E-B03E-2D6F4CDABE61}"
@@ -20,10 +18,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EC3A619E-EC31-41DE-8B4A-231452CB78FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC3A619E-EC31-41DE-8B4A-231452CB78FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EC3A619E-EC31-41DE-8B4A-231452CB78FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC3A619E-EC31-41DE-8B4A-231452CB78FE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{291A13EA-9954-416B-B048-71E904FC17FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{291A13EA-9954-416B-B048-71E904FC17FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{291A13EA-9954-416B-B048-71E904FC17FD}.Release|Any CPU.ActiveCfg = Release|Any CPU

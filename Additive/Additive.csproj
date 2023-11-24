@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Coffee\Coffe.csproj" />
-    <ProjectReference Include="..\Lab9\Lab9.csproj" />
   </ItemGroup>
 
 </Project>

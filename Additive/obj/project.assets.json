@@ -11,19 +11,6 @@
         "runtime": {
           "bin/placeholder/Coffe.dll": {}
         }
-      },
-      "Lab9/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Coffe": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Lab9.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Lab9.dll": {}
-        }
       }
     }
   },
@@ -32,17 +19,11 @@
       "type": "project",
       "path": "../Coffee/Coffe.csproj",
       "msbuildProject": "../Coffee/Coffe.csproj"
-    },
-    "Lab9/1.0.0": {
-      "type": "project",
-      "path": "../Lab9/Lab9.csproj",
-      "msbuildProject": "../Lab9/Lab9.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Coffe >= 1.0.0",
-      "Lab9 >= 1.0.0"
+      "Coffe >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -74,9 +55,6 @@
           "projectReferences": {
             "D:\\2 курс\\Объектно-ориентированный анализ и проектирование\\Lab9\\Coffee\\Coffe.csproj": {
               "projectPath": "D:\\2 курс\\Объектно-ориентированный анализ и проектирование\\Lab9\\Coffee\\Coffe.csproj"
-            },
-            "D:\\2 курс\\Объектно-ориентированный анализ и проектирование\\Lab9\\Lab9\\Lab9.csproj": {
-              "projectPath": "D:\\2 курс\\Объектно-ориентированный анализ и проектирование\\Lab9\\Lab9\\Lab9.csproj"
             }
           }
         }
